@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "RAGNASMP.aternos.me",
-    "port": 11723,
+    "ip": "ragnasmp.mcsh.io",
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
