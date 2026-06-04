@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "RAGNASMP.aternos.me",
-    "port": 11723,
+    "ip": "free6.vektalnodes.in",
+    "port": 25626,
     "version": "1.20.1",
     "try-creative": false
   },
